@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:screenReaderFocusable="true"
+    android:focusable="true"
     tools:context=".MainActivity">
 
     <TextView
@@ -14,7 +14,6 @@
         android:layout_margin="10dp"
         android:text="Charlie's Cafe"
         android:textColor="@color/black"
-        android:focusable="false"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
@@ -26,7 +25,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:focusable="false"
         android:text="$35.68"
         android:textColor="@color/black"
         android:textSize="40sp"
@@ -40,7 +38,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:focusable="false"
         android:text="Payment Type: Discover Card"
         android:textColor="@color/black"
         android:textSize="16sp"
@@ -53,7 +50,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:focusable="false"
         android:text="Transaction Date: 03/25/21"
         android:textColor="@color/black"
         android:textSize="16sp"
