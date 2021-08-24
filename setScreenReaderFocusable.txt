@@ -1,0 +1,104 @@
+08-24 14:51:40.730  8070  8070 V TreeDebug: ------------Node tree------------
+08-24 14:51:40.731  8070  8070 V TreeDebug: Window: AccessibilityWindowInfo[title=Navigation bar, displayId=0, id=587, type=TYPE_SYSTEM, layer=2, region=SkRegion((0,2028,1080,2160)), bounds=Rect(0, 2028 - 1080, 2160), focused=false, active=false, pictureInPicture=false, hasParent=false, isAnchored=false, hasChildren=false]
+08-24 14:51:40.736  8070  8070 V TreeDebug: (42840)587.FrameLayout:(0, 2028 - 1080, 2160)(action:A11Y_FOCUS)
+08-24 14:51:40.740  8070  8070 V TreeDebug:   (544482)587.FrameLayout:(0, 2028 - 1080, 2160)(action:A11Y_FOCUS)
+08-24 14:51:40.740  8070  8070 V TreeDebug:     (552170)587.ImageView:(129, 2028 - 349, 2160):CONTENT{Back}(action:FOCUS/A11Y_FOCUS/CLICK/LONG_CLICK):focusable:clickable:longClickable
+08-24 14:51:40.740  8070  8070 V TreeDebug:     (560819)587.FrameLayout:(430, 2028 - 650, 2160)(action:FOCUS/A11Y_FOCUS/CLICK):focusable:clickable
+08-24 14:51:40.740  8070  8070 V TreeDebug:       (569468)587.ImageView:(430, 2028 - 650, 2160):CONTENT{Home}(action:FOCUS/A11Y_FOCUS/CLICK/LONG_CLICK):focusable:clickable:longClickable
+08-24 14:51:40.740  8070  8070 V TreeDebug: Window: AccessibilityWindowInfo[title=null, displayId=0, id=591, type=TYPE_SYSTEM, layer=1, region=SkRegion((0,0,1080,66)), bounds=Rect(0, 0 - 1080, 66), focused=false, active=false, pictureInPicture=false, hasParent=false, isAnchored=false, hasChildren=false]
+08-24 14:51:40.743  8070  8070 V TreeDebug: (150476)591.FrameLayout:(0, 0 - 1080, 66)(action:A11Y_FOCUS)
+08-24 14:51:40.747  8070  8070 V TreeDebug:   (152398)591.FrameLayout:(0, 0 - 1080, 66):PANE{Status bar}(action:A11Y_FOCUS)
+08-24 14:51:40.747  8070  8070 V TreeDebug:     (161047)591.TextView:(50, 0 - 138, 66):TEXT{2:51}:CONTENT{2:51 PM}(action:A11Y_FOCUS):supportsTextLocation
+08-24 14:51:40.748  8070  8070 V TreeDebug:     (5663733)591.ImageView:(138, 0 - 199, 66):CONTENT{Android System notification: USB debugging connected}(action:A11Y_FOCUS)
+08-24 14:51:40.748  8070  8070 V TreeDebug:     (1638104)591.ImageView:(199, 0 - 260, 66):CONTENT{Google Fi notification: Google Fi not fully activated}(action:A11Y_FOCUS)
+08-24 14:51:40.748  8070  8070 V TreeDebug:     (181228)591.ImageView:(725, 2 - 791, 63):CONTENT{Ringer silent.}(action:A11Y_FOCUS)
+08-24 14:51:40.748  8070  8070 V TreeDebug:     (639625)591.FrameLayout:(791, 2 - 839, 63):CONTENT{Wifi signal full.}(action:A11Y_FOCUS)
+08-24 14:51:40.748  8070  8070 V TreeDebug:     (605029)591.FrameLayout:(839, 2 - 880, 63):CONTENT{Phone three bars.}(action:A11Y_FOCUS)
+08-24 14:51:40.748  8070  8070 V TreeDebug:     (185072)591.LinearLayout:(897, 0 - 1030, 66):CONTENT{Battery charging, 100 percent.}(action:A11Y_FOCUS)
+08-24 14:51:40.748  8070  8070 V TreeDebug: Window: AccessibilityWindowInfo[title=AccessibilityDemo, displayId=0, id=622, type=TYPE_APPLICATION, layer=0, region=SkRegion((0,0,1080,2160)), bounds=Rect(0, 0 - 1080, 2160), focused=true, active=true, pictureInPicture=false, hasParent=false, isAnchored=false, hasChildren=false]
+08-24 14:51:40.754  8070  8070 V TreeDebug: (-2147455188)622.FrameLayout:(0, 0 - 1080, 2160)(action:A11Y_FOCUS)
+08-24 14:51:40.755  8070  8070 V TreeDebug:   (41914)622.TextView:(44, 106 - 514, 180):TEXT{AccessibilityDemo}(action:A11Y_FOCUS):supportsTextLocation
+08-24 14:51:40.755  8070  8070 V TreeDebug:   (36148)622.TextView:(371, 248 - 710, 322):TEXT{Charlie's Cafe}(action:CLEAR_A11Y_FOCUS):accessibilityFocused:supportsTextLocation
+08-24 14:51:40.755  8070  8070 V TreeDebug:   (37109)622.TextView:(367, 350 - 714, 497):TEXT{$35.68}(action:A11Y_FOCUS):supportsTextLocation
+08-24 14:51:40.755  8070  8070 V TreeDebug:   (38070)622.TextView:(254, 525 - 826, 584):TEXT{Payment Type: Discover Card}(action:A11Y_FOCUS):supportsTextLocation
+08-24 14:51:40.755  8070  8070 V TreeDebug:   (39031)622.TextView:(270, 612 - 810, 671):TEXT{Transaction Date: 03/25/21}(action:A11Y_FOCUS):supportsTextLocation
+08-24 14:51:40.755  8070  8070 V TreeDebug: ------------Node tree traversal order------------
+08-24 14:51:40.755  8070  8070 V TreeDebug: Window: AccessibilityWindowInfo[title=Navigation bar, displayId=0, id=587, type=TYPE_SYSTEM, layer=2, region=SkRegion((0,2028,1080,2160)), bounds=Rect(0, 2028 - 1080, 2160), focused=false, active=false, pictureInPicture=false, hasParent=false, isAnchored=false, hasChildren=false]
+08-24 14:51:40.755  1047 20531 D AF::TrackHandle: OpPlayAudio: track:883 usage:11 not muted
+08-24 14:51:40.758  8070 19410 D AudioTrack: createTrack_l(0): AUDIO_OUTPUT_FLAG_FAST denied by server; frameCount 0 -> 5620
+08-24 14:51:40.759  8070  8070 V AccessibilityNodeInfoUtils: Focus, Node(id=552170 class=android.widget.ImageView) is focusable and has no visible children
+08-24 14:51:40.759  8070  8070 V AccessibilityNodeInfoUtils: Child 0, Node(id=560819 class=android.widget.FrameLayout) is focusable or clickable, skipping it
+08-24 14:51:40.759  8070  8070 V AccessibilityNodeInfoUtils: Does not have non-actionable speaking children
+08-24 14:51:40.759  8070  8070 V AccessibilityNodeInfoUtils: Don't focus, Node(id=560819 class=android.widget.FrameLayout) is focusable but has nothing to speak
+08-24 14:51:40.759  8070  8070 V AccessibilityNodeInfoUtils: Focus, Node(id=569468 class=android.widget.ImageView) is focusable and has no visible children
+08-24 14:51:40.759  8070  8070 V TreeDebug:  (42840)587.FrameLayout:(0, 2028 - 1080, 2160)(action:A11Y_FOCUS)
+08-24 14:51:40.759  8070  8070 V TreeDebug:  (544482)587.FrameLayout:(0, 2028 - 1080, 2160)(action:A11Y_FOCUS)
+08-24 14:51:40.759  8070  8070 V TreeDebug:  (552170)587.ImageView:(129, 2028 - 349, 2160):CONTENT{Back}(action:FOCUS/A11Y_FOCUS/CLICK/LONG_CLICK):focusable:clickable:longClickable
+08-24 14:51:40.759  8070  8070 V TreeDebug:  (560819)587.FrameLayout:(430, 2028 - 650, 2160)(action:FOCUS/A11Y_FOCUS/CLICK):focusable:clickable after:552170
+08-24 14:51:40.759  8070  8070 V TreeDebug:  (569468)587.ImageView:(430, 2028 - 650, 2160):CONTENT{Home}(action:FOCUS/A11Y_FOCUS/CLICK/LONG_CLICK):focusable:clickable:longClickable
+08-24 14:51:40.760  8070  8070 V TreeDebug: Window: AccessibilityWindowInfo[title=null, displayId=0, id=591, type=TYPE_SYSTEM, layer=1, region=SkRegion((0,0,1080,66)), bounds=Rect(0, 0 - 1080, 66), focused=false, active=false, pictureInPicture=false, hasParent=false, isAnchored=false, hasChildren=false]
+08-24 14:51:40.760  1047 15658 W APM::AudioPolicyEngine: getDevicesForStrategy() unknown strategy: -1
+08-24 14:51:40.763  8070  8070 V AccessibilityNodeInfoUtils: Focus Node(id=161047 class=android.widget.TextView) has text and no focusable ancestors
+08-24 14:51:40.764  8070  8070 V AccessibilityNodeInfoUtils: Focus Node(id=5663733 class=android.widget.ImageView) has text and no focusable ancestors
+08-24 14:51:40.764  8070  8070 V AccessibilityNodeInfoUtils: Focus Node(id=1638104 class=android.widget.ImageView) has text and no focusable ancestors
+08-24 14:51:40.764  8070  8070 V AccessibilityNodeInfoUtils: Focus Node(id=181228 class=android.widget.ImageView) has text and no focusable ancestors
+08-24 14:51:40.764  8070  8070 V AccessibilityNodeInfoUtils: Focus Node(id=639625 class=android.widget.FrameLayout) has text and no focusable ancestors
+08-24 14:51:40.764  8070  8070 V AccessibilityNodeInfoUtils: Focus Node(id=605029 class=android.widget.FrameLayout) has text and no focusable ancestors
+08-24 14:51:40.764  8070  8070 V AccessibilityNodeInfoUtils: Focus Node(id=185072 class=android.widget.LinearLayout) has text and no focusable ancestors
+08-24 14:51:40.765  8070  8070 V TreeDebug:  (150476)591.FrameLayout:(0, 0 - 1080, 66)(action:A11Y_FOCUS)
+08-24 14:51:40.765  8070  8070 V TreeDebug:  (152398)591.FrameLayout:(0, 0 - 1080, 66):PANE{Status bar}(action:A11Y_FOCUS)
+08-24 14:51:40.765  8070  8070 V TreeDebug:  (161047)591.TextView:(50, 0 - 138, 66):TEXT{2:51}:CONTENT{2:51 PM}(action:A11Y_FOCUS):supportsTextLocation
+08-24 14:51:40.765  8070  8070 V TreeDebug:  (5663733)591.ImageView:(138, 0 - 199, 66):CONTENT{Android System notification: USB debugging connected}(action:A11Y_FOCUS)
+08-24 14:51:40.765  8070  8070 V TreeDebug:  (1638104)591.ImageView:(199, 0 - 260, 66):CONTENT{Google Fi notification: Google Fi not fully activated}(action:A11Y_FOCUS)
+08-24 14:51:40.765  8070  8070 V TreeDebug:  (181228)591.ImageView:(725, 2 - 791, 63):CONTENT{Ringer silent.}(action:A11Y_FOCUS)
+08-24 14:51:40.765  8070  8070 V TreeDebug:  (639625)591.FrameLayout:(791, 2 - 839, 63):CONTENT{Wifi signal full.}(action:A11Y_FOCUS)
+08-24 14:51:40.765  8070  8070 V TreeDebug:  (605029)591.FrameLayout:(839, 2 - 880, 63):CONTENT{Phone three bars.}(action:A11Y_FOCUS)
+08-24 14:51:40.765  8070  8070 V TreeDebug:  (185072)591.LinearLayout:(897, 0 - 1030, 66):CONTENT{Battery charging, 100 percent.}(action:A11Y_FOCUS)
+08-24 14:51:40.765  8070  8070 V TreeDebug: Window: AccessibilityWindowInfo[title=AccessibilityDemo, displayId=0, id=622, type=TYPE_APPLICATION, layer=0, region=SkRegion((0,0,1080,2160)), bounds=Rect(0, 0 - 1080, 2160), focused=true, active=true, pictureInPicture=false, hasParent=false, isAnchored=false, hasChildren=false]
+08-24 14:51:40.769  1578  4761 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+08-24 14:51:40.770  8070  8070 V AccessibilityNodeInfoUtils: Focus Node(id=41914 class=android.widget.TextView) has text and no focusable ancestors
+08-24 14:51:40.770  8070  8070 V AccessibilityNodeInfoUtils: Focus Node(id=36148 class=android.widget.TextView) has text and no focusable ancestors
+08-24 14:51:40.770  8070  8070 V AccessibilityNodeInfoUtils: Focus Node(id=37109 class=android.widget.TextView) has text and no focusable ancestors
+08-24 14:51:40.770  8070  8070 V AccessibilityNodeInfoUtils: Focus Node(id=38070 class=android.widget.TextView) has text and no focusable ancestors
+08-24 14:51:40.770  8070  8070 V AccessibilityNodeInfoUtils: Focus Node(id=39031 class=android.widget.TextView) has text and no focusable ancestors
+08-24 14:51:40.771  8070  8070 V TreeDebug:  (-2147455188)622.FrameLayout:(0, 0 - 1080, 2160)(action:A11Y_FOCUS)
+08-24 14:51:40.771  8070  8070 V TreeDebug:  (41914)622.TextView:(44, 106 - 514, 180):TEXT{AccessibilityDemo}(action:A11Y_FOCUS):supportsTextLocation
+08-24 14:51:40.771  8070  8070 V TreeDebug:  (36148)622.TextView:(371, 248 - 710, 322):TEXT{Charlie's Cafe}(action:CLEAR_A11Y_FOCUS):accessibilityFocused:supportsTextLocation
+08-24 14:51:40.771  8070  8070 V TreeDebug:  (37109)622.TextView:(367, 350 - 714, 497):TEXT{$35.68}(action:A11Y_FOCUS):supportsTextLocation
+08-24 14:51:40.771  8070  8070 V TreeDebug:  (38070)622.TextView:(254, 525 - 826, 584):TEXT{Payment Type: Discover Card}(action:A11Y_FOCUS):supportsTextLocation
+08-24 14:51:40.771  8070  8070 V TreeDebug:  (39031)622.TextView:(270, 612 - 810, 671):TEXT{Transaction Date: 03/25/21}(action:A11Y_FOCUS):supportsTextLocation
+08-24 14:51:40.771  8070  8070 D Pipeline: execute() feedback=Feedback{eventId=type:EVENT_TYPE_GESTURE subtype:(unhandled 20) time:11813271, failovers=[Part= speech= Speech{action=SPEAK, text=Node tree has been printed to logs., options=null, hint=null, hintSpeakOptions=null} ]}
+08-24 14:51:40.772  8070  8070 D Actors  : act() eventId=type:EVENT_TYPE_GESTURE subtype:(unhandled 20) time:11813271 part=Part= speech= Speech{action=SPEAK, text=Node tree has been printed to logs., options=null, hint=null, hintSpeakOptions=null} 
+08-24 14:51:40.773  1578  4761 I MediaFocusControl: requestAudioFocus() from uid/pid 10130/8070 clientId=android.media.AudioManager@f246599com.google.android.accessibility.utils.output.SpeechControllerImpl$5@6ca105e callingPack=com.google.android.marvin.talkback req=3 flags=0x0 sdk=30
+08-24 14:51:40.774  8070  8070 V FeedbackFragmentsIterator: next --currentFeedbackFragment text = Node tree has been printed to logs..
+08-24 14:51:40.775  8070  8070 V SpeechControllerImpl: Speaking fragment text "Node tree has been printed to logs." with spans null for event type:EVENT_TYPE_GESTURE subtype:(unhandled 20) time:11813271
+08-24 14:51:40.777  8070  8070 D FailoverTextToSpeech: Speak call for talkback_18 returned 0
+08-24 14:51:40.778 15515 15604 I TTS.GoogleTTSServiceImp: Synthesis request for locale eng-USA and name en-US-language
+08-24 14:51:40.780 15515 15604 I TTS.GoogleTTSServiceImp: TTS dispatch: en-us-x-sfg-lstm-embedded
+08-24 14:51:40.787  1047 15658 D AudioFlinger: Client defaulted notificationFrames to 2048 for frameCount 4096
+08-24 14:51:40.789  8070  8070 V Pipeline: execute() success=true for part=Part= speech= Speech{action=SPEAK, text=Node tree has been printed to logs., options=null, hint=null, hintSpeakOptions=null} 
+08-24 14:51:40.789  1047 15658 D AF::TrackHandle: OpPlayAudio: track:884 usage:11 not muted
+08-24 14:51:40.789  8070  8070 D Pipeline: execute() feedback=Feedback{eventId=null, failovers=[Part= gesture= Gesture{action=SAVE, currentGesture=AccessibilityGestureEvent[gestureId: GESTURE_2_FINGER_DOUBLE_TAP, displayId: 0]} ]}
+08-24 14:51:40.790  8070  8070 D Actors  : act() eventId=null part=Part= gesture= Gesture{action=SAVE, currentGesture=AccessibilityGestureEvent[gestureId: GESTURE_2_FINGER_DOUBLE_TAP, displayId: 0]} 
+08-24 14:51:40.790  8070  8070 V Pipeline: execute() success=false for part=Part= gesture= Gesture{action=SAVE, currentGesture=AccessibilityGestureEvent[gestureId: GESTURE_2_FINGER_DOUBLE_TAP, displayId: 0]} 
+08-24 14:51:40.790  8070  8155 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+08-24 14:51:40.790  8070  8070 D ProcessorEventQueue: Processing event: AccessibilityEvent TYPE_GESTURE_DETECTION_END time=11813257 ScrollX=0 ScrollY=0 MaxScrollX=0 MaxScrollY=0     
+08-24 14:51:40.790  8070  8070 V Compositor: eventInterpretation= TYPE_GESTURE_DETECTION_END 
+08-24 14:51:40.790  8070  8070 D ProcessorEventQueue: Processing event: AccessibilityEvent TYPE_TOUCH_INTERACTION_END time=11813257 ScrollX=0 ScrollY=0 MaxScrollX=0 MaxScrollY=0     
+08-24 14:51:40.790  8070  8070 V Compositor: eventInterpretation= TYPE_TOUCH_INTERACTION_END 
+08-24 14:51:40.790  8070  8070 D A11yFocusInterp: User action: TouchExplorationAction{actionType=TOUCH_INTERACTION_END, touchedFocusableNode=null}
+08-24 14:51:40.790  8070  8155 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+08-24 14:51:40.790  8070  8155 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+08-24 14:51:40.810  1578  4761 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+08-24 14:51:40.824  8070  8070 V FeedbackFragmentsIterator: onFragmentRangeStarted ,  speak word = Node
+08-24 14:51:40.861  1026  1026 W radioext@1.0-se: type=1400 audit(0.0:2816): avc: denied { search } for name="radio" dev="dm-8" ino=158 scontext=u:r:hal_radioext_default:s0 tcontext=u:object_r:radio_vendor_data_file:s0 tclass=dir permissive=0
+08-24 14:51:40.862  3411  3411 D GRIL-S  : [0663]> UPDATE_REGULATORY_DOMAIN
+08-24 14:51:40.864  3411  4353 D GRIL-S  : [0663]< UPDATE_REGULATORY_DOMAIN 
+08-24 14:51:40.973  1578  2080 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+08-24 14:51:41.040  8070  8070 V FeedbackFragmentsIterator: onFragmentRangeStarted ,  speak word = tree
+08-24 14:51:41.307  8070  8070 V FeedbackFragmentsIterator: onFragmentRangeStarted ,  speak word = has
+08-24 14:51:41.533  8070  8070 V FeedbackFragmentsIterator: onFragmentRangeStarted ,  speak word = been
+08-24 14:51:41.724  8070  8070 V FeedbackFragmentsIterator: onFragmentRangeStarted ,  speak word = printed
+08-24 14:51:42.074  8070  8070 V FeedbackFragmentsIterator: onFragmentRangeStarted ,  speak word = to
+08-24 14:51:42.153  8070  8070 V FeedbackFragmentsIterator: onFragmentRangeStarted ,  speak word = logs
+08-24 14:51:43.062 15515 15605 D AudioTrack: stop(859): called with 49170 frames delivered
